@@ -1,0 +1,449 @@
+[
+    [
+        "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app",
+        {
+            "sourcePath": "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1534788307941,
+            "changeTime": 1534788307941,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main",
+        {
+            "sourcePath": "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1534799817832,
+            "changeTime": 1534799817832,
+            "contentHash": "539e41741781cfcab3995b49df17d65955cd54ea",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default",
+        {
+            "sourcePath": "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1534799858674,
+            "changeTime": 1534799858674,
+            "contentHash": "0b397782da75c0e4da00bd8ba3755c24c7ae99c6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/applications",
+        {
+            "sourcePath": "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/applications",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1534799876149,
+            "changeTime": 1534799876149,
+            "contentHash": "90fc8a4c51ce387f839ffb8bcadc4d1c513ca94a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/applications/LWC.app-meta.xml",
+        {
+            "sourcePath": "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/applications/LWC.app-meta.xml",
+            "isDirectory": false,
+            "size": 527,
+            "modifiedTime": 1534801330077,
+            "changeTime": 1534801330077,
+            "contentHash": "84f9c6d86f38c49e7da72508bfb816dc7358a0ea",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1534799392395,
+            "changeTime": 1534799392395,
+            "contentHash": "f8bea538d6e9fead577f87e498bd9040320fa921",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/aura/helloWorldWrapper",
+        {
+            "sourcePath": "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/aura/helloWorldWrapper",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1534799392402,
+            "changeTime": 1534799392402,
+            "contentHash": "df23aafc6e8c0074d82931b2961da0b8734289ad",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/aura/helloWorldWrapper/helloWorldWrapper.auradoc",
+        {
+            "sourcePath": "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/aura/helloWorldWrapper/helloWorldWrapper.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1534799392401,
+            "changeTime": 1534799392401,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/aura/helloWorldWrapper/helloWorldWrapper.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/aura/helloWorldWrapper/helloWorldWrapper.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1534801465297,
+            "changeTime": 1534801465297,
+            "isWorkspace": false,
+            "contentHash": "c94cd8d557091ba03981d401a0499db4afb8d3c1"
+        }
+    ],
+    [
+        "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/aura/helloWorldWrapper/helloWorldWrapper.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/aura/helloWorldWrapper/helloWorldWrapper.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 249,
+            "modifiedTime": 1534799392397,
+            "changeTime": 1534799392397,
+            "contentHash": "42a2798381c757ab1f048993647b1ac617b7fd18",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/aura/helloWorldWrapper/helloWorldWrapper.css",
+        {
+            "sourcePath": "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/aura/helloWorldWrapper/helloWorldWrapper.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1534799392399,
+            "changeTime": 1534799392399,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/aura/helloWorldWrapper/helloWorldWrapper.design",
+        {
+            "sourcePath": "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/aura/helloWorldWrapper/helloWorldWrapper.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1534799392402,
+            "changeTime": 1534799392402,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/aura/helloWorldWrapper/helloWorldWrapper.svg",
+        {
+            "sourcePath": "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/aura/helloWorldWrapper/helloWorldWrapper.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1534799392401,
+            "changeTime": 1534799392401,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/aura/helloWorldWrapper/helloWorldWrapperController.js",
+        {
+            "sourcePath": "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/aura/helloWorldWrapper/helloWorldWrapperController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1534799392397,
+            "changeTime": 1534799392397,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/aura/helloWorldWrapper/helloWorldWrapperHelper.js",
+        {
+            "sourcePath": "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/aura/helloWorldWrapper/helloWorldWrapperHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1534799392398,
+            "changeTime": 1534799392398,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/aura/helloWorldWrapper/helloWorldWrapperRenderer.js",
+        {
+            "sourcePath": "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/aura/helloWorldWrapper/helloWorldWrapperRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1534799392400,
+            "changeTime": 1534799392400,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/lightningcomponents",
+        {
+            "sourcePath": "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/lightningcomponents",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1534799246734,
+            "changeTime": 1534799246734,
+            "contentHash": "b46da2991c3c106809cec5c4385e51b1497bd384",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/lightningcomponents/hello_world",
+        {
+            "sourcePath": "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/lightningcomponents/hello_world",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1534798457699,
+            "changeTime": 1534798457699,
+            "contentHash": "fe62df8d6e468d7fec205688058c1e0e4ad8d58e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/lightningcomponents/hello_world/hello_world.html",
+        {
+            "sourcePath": "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/lightningcomponents/hello_world/hello_world.html",
+            "isDirectory": false,
+            "size": 169,
+            "modifiedTime": 1534798955236,
+            "changeTime": 1534798955236,
+            "contentHash": "ad43f2f94ecf71488d572a01d51e2c8d2359bea9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/lightningcomponents/hello_world/hello_world.js",
+        {
+            "sourcePath": "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/lightningcomponents/hello_world/hello_world.js",
+            "isDirectory": false,
+            "size": 125,
+            "modifiedTime": 1534799061519,
+            "changeTime": 1534799061519,
+            "contentHash": "9f7240c453706e0166cfc7cf6700fbeb1b4061df",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/lightningcomponents/hello_world/hello_world.js-meta.xml",
+        {
+            "sourcePath": "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/lightningcomponents/hello_world/hello_world.js-meta.xml",
+            "isDirectory": false,
+            "size": 225,
+            "modifiedTime": 1534798457699,
+            "changeTime": 1534798457699,
+            "contentHash": "7ddebd50c89fa27445773ef729c4973e75c96dfd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/lightningcomponents/playground",
+        {
+            "sourcePath": "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/lightningcomponents/playground",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1534799246736,
+            "changeTime": 1534799246736,
+            "contentHash": "9e11fdb68d23898527ce35ca542f43bb96e0eaf3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/lightningcomponents/playground/playground.html",
+        {
+            "sourcePath": "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/lightningcomponents/playground/playground.html",
+            "isDirectory": false,
+            "size": 141,
+            "modifiedTime": 1534799317305,
+            "changeTime": 1534799317305,
+            "contentHash": "9ce78bee18b5c8e7bb4a06b9dfada9b46e4e21b9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/lightningcomponents/playground/playground.js",
+        {
+            "sourcePath": "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/lightningcomponents/playground/playground.js",
+            "isDirectory": false,
+            "size": 85,
+            "modifiedTime": 1534799246735,
+            "changeTime": 1534799246735,
+            "contentHash": "a7e31dbf706bfdd00fc41e216ced3877e1a903df",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/lightningcomponents/playground/playground.js-meta.xml",
+        {
+            "sourcePath": "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/default/lightningcomponents/playground/playground.js-meta.xml",
+            "isDirectory": false,
+            "size": 224,
+            "modifiedTime": 1534799246735,
+            "changeTime": 1534799246735,
+            "contentHash": "bca61a747b3af27cd768dfc8f668c011721a890f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/profiles",
+        {
+            "sourcePath": "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/profiles",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1534799825325,
+            "changeTime": 1534799825325,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 375,
+            "modifiedTime": 1534800686527,
+            "changeTime": 1534800686527,
+            "contentHash": "2f7d51e1df07a84d3375faff157ac8017f3c3f9c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/tabs",
+        {
+            "sourcePath": "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/tabs",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1534799781555,
+            "changeTime": 1534799781555,
+            "contentHash": "a92d0550d74639f727d5c3b5eb7544323468fcbf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/tabs/hello_world.tab-meta.xml",
+        {
+            "sourcePath": "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents/force-app/main/tabs/hello_world.tab-meta.xml",
+            "isDirectory": false,
+            "size": 268,
+            "modifiedTime": 1534801363778,
+            "changeTime": 1534799792353,
+            "contentHash": "de8b82b46a4066977a4e0bdfad0d770e31d18f4b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents",
+        {
+            "sourcePath": "/Users/danielkim/vlocity/web-components/samples/TestingLightningComponents",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1534788516390,
+            "changeTime": 1534788516390,
+            "contentHash": "3fab680288c1acb0aff9e3b35eaf720b1f778e62",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

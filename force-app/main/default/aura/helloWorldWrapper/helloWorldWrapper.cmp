@@ -1,0 +1,6 @@
+<aura:component implements="force:appHostable">
+  <article class="slds-card">
+    <c:playground/>
+    <c:hello_world/>
+  </article>
+</aura:component>
